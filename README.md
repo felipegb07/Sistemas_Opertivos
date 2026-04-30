@@ -1,4 +1,4 @@
-# Sistemas_Opertivos
+# Evaluación de rendimiento
 Este repositorio contiene el código fuente, scripts de ejecución, resultados y documentación del taller de evaluación de rendimiento de algoritmos de multiplicación de matrices.
 
 El objetivo del proyecto es comparar el rendimiento de diferentes implementaciones de multiplicación de matrices usando paralelismo con procesos `fork()` e hilos POSIX (`pthreads`), evaluando además el impacto del acceso a memoria mediante el método clásico de filas por columnas y el método optimizado usando la transpuesta de la segunda matriz.
